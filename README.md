@@ -1,7 +1,7 @@
 # egg_timer
 an egg timer written in python
 
-contains both the version I made and the version copilot cleaned up.
+contains both the version I made and the version copilot cleaned up. (the one in edge, not github copilot)
 
 source for USSR.wav:
 
